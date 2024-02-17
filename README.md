@@ -1,54 +1,46 @@
-# DictonaryAPI
+# Getting Started with Create React App
 
-**Description:**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project, born from a desire to enhance existing e-learning platforms, presents an interactive quiz app built with React and TypeScript. It empowers you to:
+## Available Scripts
 
-- **Challenge yourself:** Master tricky words and phrases by creating customized quizzes or practicing with pre-existing ones.
-- **Expand your vocabulary:** Utilize the integrated Merriam-Webster's dictionary API for instant definitions and pronunciations.
-- **Track your progress:** Bookmark your favorite words for efficient retrieval and revision.
-- **Have fun:** Enjoy a gamified learning experience that motivates you to stay engaged.
+In the project directory, you can run:
 
-**Motivation:**
+### `npm start`
 
-As an avid user of e-learning tools, I often found them lacking in functionality and user-friendliness. Inspired by my girlfriend's struggles with vocabulary acquisition, I aimed to create a more engaging and effective quiz application. This project served as a personal test of my web development skills while fulfilling a genuine need.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-**Key Features:**
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-- **Personalized Quiz Creation:** Craft targeted quizzes using your own challenging words and phrases.
-- **Pre-made Quizzes:** Select from a growing library of existing quizzes for immediate study.
-- **Meaning & Pronunciation:** Instantly access definitions and pronunciations from Merriam-Webster's API.
-- **Bookmarks:** Store your frequently encountered or high-priority words for convenient review.
-- **Responsive Design:** Enjoy a seamless experience across various devices.
+### `npm test`
 
-**Technical Stack:**
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **Frontend:** React, TypeScript
-- **API:** Merriam-Webster's Dictionary API
-- **Styling:** (Replace with specific styling frameworks/libraries used)
-- **Other relevant technologies:** (List any additional tools or dependencies)
+### `npm run build`
 
-**Getting Started:**
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-1. Clone or download the repository.
-2. Install dependencies using `npm install` or `yarn install`.
-3. Set up your API key for Merriam-Webster's API (instructions provided).
-4. Start the development server: `npm start` or `yarn start`.
-5. Access the app at http://localhost:3000 (or the specified port).
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-**Contribution:**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-I welcome contributions from the community! Please make sure to follow the contribution guidelines before submitting a pull request.
+### `npm run eject`
 
-**License:**
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-**Additional Notes:**
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-- Replace the bracketed information with the specific details of your project.
-- Consider adding screenshots or a short demo video to visually showcase the app.
-- If you have specific contribution guidelines, include a link to them or provide a summary within the README.
-- Consider using badges to highlight the technology stack and license.
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-I hope this improved README effectively presents your project and encourages engagement!
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
